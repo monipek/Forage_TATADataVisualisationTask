@@ -49,4 +49,6 @@ The project required building four different visualisations in Tableau, each add
 ## Conclusion
 This project was a good opportunity to apply real-world data analysis techniques in a business context. By cleaning, visualizing, and interpreting sales data, I helped uncover growth opportunities and operational efficiencies for a hypothetical retail expansion strategy.
 
+---
+
 **Tools Used**: Excel, Tableau
