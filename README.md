@@ -15,6 +15,11 @@ Before any analysis could begin, I performed data quality checks to ensure the d
 The project required building four different visualisations in Tableau, each addressing a specific business question:
 
 ### 1. Monthly Revenue Trends (2011)
+Business Question:
+
+The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur. This analysis will be helpful for the CEO to forecast for the next year.
+
+Visualisation and Insights:
 - A line chart showing revenue fluctuations throughout 2011.
 - Identified seasonal peaks (e.g., November's £1.2M high, possibly due to Black Friday) and troughs (January's post-holiday slump).
 - Insight: Recommending increased inventory and promotions ahead of Q4 to maximize holiday sales.
@@ -23,6 +28,11 @@ The project required building four different visualisations in Tableau, each add
 
 
 ### 2. Top 10 Revenue-Generating Countries (Excluding UK)
+Business Question:
+
+The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated. The CMO does not want to have the United Kingdom in this visual.
+
+Visualisation and Insights:
 - A bar chart ranking countries by revenue and units sold.
 - Highlighted top markets: Netherlands (£285K), Ireland (£266K), and Germany (£229K).
 - Insight: Prioritising marketing and logistics investments in these high-performing regions.
@@ -31,6 +41,12 @@ The project required building four different visualisations in Tableau, each add
 
 
 ### 3. Top 10 Customers by Revenue
+
+Business Question:
+
+The CMO of the online retail store wants to view the information on the top 10 customers by revenue. He is interested in a visual that shows the greatest revenue generating customer at the start and gradually declines to the lower revenue generating customers. The CMO wants to target the higher revenue generating customers and ensure that they remain satisfied with their products.
+
+Visualisation and Insights:
 - A sorted bar chart displaying the highest-spending customers. When you hover on a bar you can see the country of given customer.
 - Revealed that the top 3 customers contributed 18% of the total revenue.
 - Insight: Implementing loyalty programs to retain these high-value clients.
@@ -39,6 +55,11 @@ The project required building four different visualisations in Tableau, each add
 
 
 ### 4. Global Demand Heatmap
+
+Business Question:
+The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy which will allow the company to target these areas and generate more business from these regions. He wants to view the entire data on a single view without the need to scroll or hover over the data points to identify the demand. There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities.
+
+Visualisation and Insights:
 - A color-coded world map visualising revenue concentration with labels of revenue in each country.
 - Classified markets by colour, showing clearly where demand is the highest and lowest.
 - Insight: Exploring localised fulfilment centres in top demand countries to reduce shipping costs.
